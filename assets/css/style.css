@@ -875,5 +875,8 @@ a {
 td {
   vertical-align: top; }
 
+td.sponsor {
+  vertical-align: middle; }
+
 abstract {
   font-size: 0.90rem; }
